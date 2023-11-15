@@ -131,6 +131,7 @@ tmtags
 
 # Database
 *.db
+db.sqlite3
 
 #django production
 static/

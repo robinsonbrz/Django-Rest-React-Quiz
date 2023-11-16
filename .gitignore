@@ -137,7 +137,9 @@ db.sqlite3
 static/
 media/
 
+
 # OS files
 .DS_Store
 
+.env
 .venv
